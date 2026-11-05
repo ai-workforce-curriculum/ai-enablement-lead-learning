@@ -1,0 +1,58 @@
+# mod-111 — AI CoE Operations, Vendor Management, and Cross-Functional Leadership
+
+**Estimated effort:** 14 hours
+**Role level:** 45 · **Family:** AI Workforce
+
+This is the module where everything the role learned in mod-101 through mod-110 becomes a running operating system. The CoE pattern was chosen in [mod-101](../mod-101-role-and-the-org-wide-enablement-operating-model/README.md). The tool-selection framework, the pilot design, and the rollout artefact set were authored in [mod-102](../mod-102-selecting-and-rolling-out-ai-tools/README.md). Policy, training, champions, measurement, budget, industry-flavour, incident response, and internal-tool commissioning each received their own module. By mod-111 those surfaces are standing. The question this module answers is: how does the CoE keep running at steady state, how does the vendor portfolio stay honest, how does the quarterly cross-functional ritual not degrade into a meeting series, how does the champion network scale above its team-manager-owned building blocks, and how does the credentials portfolio bind it all into a shared vocabulary.
+
+The content grounds in R15 (0.35, cross-functional program management at prereq level, applied here to AI-CoE specifics) and in R17 (0.23, 6/26 postings, vendor and external-partner management — below-threshold but monitored and real by the time the role is at steady state). The remaining learning objectives pick up the organisational surfaces the quarterly ritual carries — the AI council co-owned with `head-of-ai-governance` (level 60) and `senior-ai-governance-architect` (level 50), the executive leadership team review with the CAIO, the BU leadership reviews, and the functional partnerships (HR, L&D, IT, legal, security, procurement, finance) — plus the champion community of practice that sits above the team-manager-owned networks ([mod-105](../mod-105-champion-networks-and-change-management/README.md)) and the credentials portfolio that keeps the cross-functional surfaces legible.
+
+## Learning objectives
+
+- Operate the AI CoE at steady state — intake cadence, service catalog (selection, pilot, rollout, training, measurement, incident support), decision log, status reporting, risk register — grounded in R15 (0.35) applied to AI-CoE specifics.
+- Run vendor and external-partner management — screen, train, certify, manage external AI experts, vendors, agencies, consultancies — grounded in R17 (0.23); apply certification criteria so third-party partners meet the enablement bar.
+- Author the quarterly cross-functional operating ritual — AI council (with `head-of-ai-governance`, `senior-ai-governance-architect`), executive leadership team review (with the CAIO), BU leadership reviews, functional partnerships.
+- Lead the AI champions community-of-practice at org scope — the layer above individual team champion networks owned by `ai-augmented-team-manager` (level 40) — publishing cross-team lessons, running summits, measuring community health.
+- Position the credentials portfolio — IAPP AIGP, ATD CPTD, Prosci Change Management, ISO/IEC 42001 Lead Auditor / Lead Implementer, PMP — as the shared vocabulary of the role.
+
+## Lecture chapters
+
+1. [The CoE at Steady State — The Operating Loop That Keeps the Enablement Program Running](01-the-coe-at-steady-state.md) — why "steady state" is the right word for this phase of the role; the three questions a CoE answers every week (in flight / blocked / at risk); the Monday-Thursday-Friday operating loop; the monthly, quarterly, and semi-annual overlays; the lean staffing shape at steady state; and the three failure modes that signal the operating loop has broken.
+2. [The Service Catalog as the CoE's Public Interface](02-the-service-catalog-as-the-coes-public-interface.md) — the six catalog slots (Tool Selection, Pilot Design and Operation, Rollout and the Artefact Set, Training and Enablement, Outcome Measurement, Incident Support); the six fields each slot specifies; the baseline-requiring intake form; how Monday triage reads the catalog; the three anti-patterns that break the catalog after publication; and the catalog-to-budget line-item mapping.
+3. [Operational Instruments — Decision Log, Status Report, Risk Register](03-operational-instruments-decision-log-status-report-risk-register.md) — why three instruments, not one; the decision log's fields, discipline, and example entry; the weekly status report with misses-first discipline; the risk register's forward-looking function and weekly cadence; how the three instruments interlock; and the two drifts that collapse the instruments into theatre.
+4. [Vendor and External-Partner Management](04-vendor-and-external-partner-management.md) — why the role manages vendors as a first-class surface in partnership with Procurement; the four vendor archetypes (primary tooling vendor, training-production agency, change-management consultancy, external AI expert on call); the vendor portfolio instrument; the six-question screening gate; the vendor-training content; the three-state certification discipline; the quarterly portfolio review; and three vendor-management failure modes.
+5. [The Quarterly Cross-Functional Operating Ritual](05-the-quarterly-cross-functional-operating-ritual.md) — the four ritual surfaces (AI council, executive leadership team review, BU leadership reviews, functional-partnership renewals); the standing agendas each surface carries; the sequence of surfaces across the quarter; what information moves across surfaces; and three ritual failure modes.
+6. [The Org-Wide Champions Community of Practice](06-the-org-wide-champions-community-of-practice.md) — why the community layer exists above the team-manager-owned networks; the one-page charter answering who / what for / what participation looks like / what it produces; the weekly cross-team post; the quarterly summit and annual day-long summit; the four community health metrics and their interventions; and the two drifts that collapse the community into a newsletter list.
+7. [The Credentials Portfolio as Shared Vocabulary](07-the-credentials-portfolio-as-shared-vocabulary.md) — why a portfolio and not a stack; the five positions (AIGP, ATD CPTD, Prosci, ISO/IEC 42001 Lead Implementer / Lead Auditor, PMP); the depth each is held at and who holds it; when the portfolio is read externally and internally; and two drifts the portfolio prevents.
+
+## Exercises
+
+The five exercises flow against a single chosen organisation. Carrying one organisation through Exercises 01–04 produces a coherent CoE operating bundle; Exercise 05 is personal and is run against the lead's own trajectory. The organisation choice is deliberate — the exercises build on each other.
+
+1. [CoE Service Catalog and Intake Cadence](exercises/exercise-01-coe-service-catalog-and-intake-cadence.md) — author the six-slot service catalog, the baseline-requiring intake form, and the Monday-triage routing rules for a chosen organisation.
+2. [Vendor Vetting and Certification Rubric](exercises/exercise-02-vendor-vetting-and-certification-rubric.md) — populate the vendor portfolio with the chosen organisation's current vendor set, author the archetype-specific certification rubric, and produce one certification record at depth.
+3. [Quarterly Operating Ritual Plan](exercises/exercise-03-quarterly-operating-ritual-plan.md) — author the next quarter's four-surface ritual with sequenced dates, standing-agenda annotations, and distribution lists for each surface.
+4. [Org-Wide Champions Community of Practice Charter](exercises/exercise-04-org-wide-champions-community-of-practice-charter.md) — write the one-page charter and the semi-annual community health report for the chosen organisation's community.
+5. [Credentials Portfolio and Signalling Plan](exercises/exercise-05-credentials-portfolio-and-signalling-plan.md) — audit the lead's current portfolio against the five positions, author the depth each is held at, and name the next-two-years development plan with a signalling read toward the chosen next step on the ladder.
+
+## Labs and quizzes
+
+Lab and quiz prompts land in `labs/` and `quizzes/` on subsequent content cycles.
+
+## Resources
+
+External references: [`resources.md`](resources.md).
+
+## How this module connects to the rest of the track
+
+- **Takes from [mod-101](../mod-101-role-and-the-org-wide-enablement-operating-model/README.md):** the CoE pattern choice (Chapter 02), the operating-model authorship (Chapter 03), and the handoff map (Chapter 04) are the frames this module operationalises at steady state; the credentials primer (Chapter 06) is the surface this module's Chapter 07 deepens.
+- **Takes from [mod-102](../mod-102-selecting-and-rolling-out-ai-tools/README.md):** the three-stage selection, the bounded pilot, and the rollout artefact set are the frameworks the service catalog's first three slots operate against.
+- **Takes from [mod-103](../mod-103-policy-co-authoring-with-governance/README.md):** the policy stack is the surface the AI council's quarterly agenda walks against; the governance liaison seat (Chapter 02) is the source of the enablement lead's seat on the council.
+- **Takes from [mod-104](../mod-104-training-programs-and-ai-literacy-curriculum/README.md):** the role-based playbooks, the delivery mix, and the HR / L&D partnership (Chapter 08) are what the Training and Enablement slot delivers and what the quarterly L&D partnership-renewal surface commits to.
+- **Takes from [mod-105](../mod-105-champion-networks-and-change-management/README.md):** the team-level champion networks are the source material for this module's community of practice (Chapter 06); the lifecycle cadence from Chapter 02 is the source of the CoE's semi-annual intake and retirement overlay (Chapter 01).
+- **Takes from [mod-106](../mod-106-outcome-measurement-and-executive-reporting/README.md):** the exec scorecard (Chapter 02) is the surface the quarterly exec review reads; the misses-first discipline is applied at the operating level in the weekly status report.
+- **Takes from [mod-107](../mod-107-budget-roi-and-build-vs-buy-at-org-scope/README.md):** the enablement cost model (Chapter 01) is what each service-catalog slot maps to for budget defensibility; the vendor-vetting rubric (Chapter 06) is the source material the vendor-management chapter extends to operating cadence; the procurement / finance / IT partnership (Chapter 04) is contracted at the quarterly partnership-renewal surface.
+- **Takes from [mod-108](../mod-108-industry-and-regulatory-flavours-of-enablement/README.md):** the industry-specific flavour adjustments are the surfaces the AI council's standing agenda reads against for regulated BUs; industry-counsel partnerships appear at the quarterly partnership-renewal surface.
+- **Takes from [mod-109](../mod-109-ai-incident-response-and-enablement-side-rollback/README.md):** the enablement-side incident path is the slot the Incident Support catalog slot operates; the handoff contracts are the artefact the Security partnership-renewal surface reviews.
+- **Takes from [mod-110](../mod-110-commissioning-internal-ai-tools-and-custom-agents/README.md):** commissioning briefs flow through the Tool Selection slot (Column 4 of the mod-107 matrix) and the Rollout slot; the maintenance-owner surface is one of the signatures the vendor portfolio tracks when the commissioned tool's maintenance has graduated to vendor-shaped ownership.
+- **Feeds [mod-112](../mod-112-career-positioning-and-the-next-step-on-the-ladder/README.md):** the credentials portfolio's external-signalling surface and the operating-ritual's narrative evidence are the primary materials the next-step-on-the-ladder positioning uses.

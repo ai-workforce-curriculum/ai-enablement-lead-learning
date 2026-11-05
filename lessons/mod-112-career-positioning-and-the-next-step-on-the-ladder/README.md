@@ -1,0 +1,54 @@
+# mod-112 — Career Positioning and the Next Step on the Ladder
+
+**Estimated effort:** 10 hours
+**Role level:** 45 · **Family:** AI Workforce
+
+This is the capstone module of the AI Enablement Lead track. Eleven modules have built the role's surfaces — selection, policy, training, champions, measurement, budget, industry flavour, incidents, commissioning, CoE operations, credentials portfolio. [mod-111](../mod-111-ai-coe-operations-vendor-management-and-cross-functional-leadership/README.md) stabilised the operating loop at steady state. This module does the two things the role has been deferring while the operating work consumed every quarter — authoring the single exec-communication story that ties the eleven surfaces into a narrative a CAIO or board will act on, and choosing the next step on the ladder with enough deliberateness to spend the preparation window well.
+
+The module is personal in a way the earlier modules are not. The exec-communication story has to carry the lead's professional voice, not just the program's narrative. The next-step decision has to be made against the lead's own energy, partnerships, organisation shape, and life-stage reality — the organisation does not make this decision for the lead. The deliberate development plan is a working document the lead lives inside for eighteen to thirty-six months. The chapters are authored at module altitude; the exercises run the decisions as personal worked examples.
+
+## Learning objectives
+
+- Author the exec-communication story that ties selection ([mod-102](../mod-102-selecting-and-rolling-out-ai-tools/README.md)), policy ([mod-103](../mod-103-policy-co-authoring-with-governance/README.md)), training ([mod-104](../mod-104-training-programs-and-ai-literacy-curriculum/README.md)), champions ([mod-105](../mod-105-champion-networks-and-change-management/README.md)), measurement ([mod-106](../mod-106-outcome-measurement-and-executive-reporting/README.md)), budget ([mod-107](../mod-107-budget-roi-and-build-vs-buy-at-org-scope/README.md)), industry flavour ([mod-108](../mod-108-industry-and-regulatory-flavours-of-enablement/README.md)), incidents ([mod-109](../mod-109-ai-incident-response-and-enablement-side-rollback/README.md)), commissioning ([mod-110](../mod-110-commissioning-internal-ai-tools-and-custom-agents/README.md)), and CoE operations ([mod-111](../mod-111-ai-coe-operations-vendor-management-and-cross-functional-leadership/README.md)) into one coherent narrative a CAIO or board will act on.
+- Choose the next step on the ladder — upward to `head-of-ai-governance` (level 60) for program leadership, to `senior-ai-governance-architect` (level 50) for control-library architecture, to `chief-ai-officer` (level 70) for executive scope, or sideways to `ai-engineering-manager` (level 50) — and build the deliberate development plan toward it.
+- Position the credentials portfolio from [mod-111](../mod-111-ai-coe-operations-vendor-management-and-cross-functional-leadership/README.md) externally — AIGP for the governance-side signal, ATD / Prosci for the change-management-side signal, ISO/IEC 42001 for the standards-side signal — selecting the subset that matches the career path chosen.
+- Build the public artifact set — one conference talk, one open piece of writing, one open-source enablement artifact (prompt library, playbook template, measurement framework) — that establishes credibility at the L45-and-above tier.
+- Map the decision points that separate this role from adjacent executive tracks — when enablement scope has saturated and governance program leadership begins, when CoE ops has saturated and CAIO-level strategy begins, and the parallel decision points for the architect and engineering-manager paths.
+
+## Lecture chapters
+
+1. [The Exec-Communication Story That Ties the Track Together](01-the-exec-communication-story-that-ties-the-track-together.md) — why the story is a deliverable, not a by-product; the eleven surfaces reduced to one-sentence claims; the four-move shape (organisational problem, three evidence-backed claims, misses without theatre, ask with confidence); the same story at three artefact lengths (elevator, one-page memo, fifteen-minute talk); three hostile-reading failure modes.
+2. [Choosing the Next Step on the Ladder](02-choosing-the-next-step-on-the-ladder.md) — why the decision has to be made deliberately; the four adjacent next-step roles named (`head-of-ai-governance`, `senior-ai-governance-architect`, `chief-ai-officer`, `ai-engineering-manager`); the four-factor sequenced decision framework (energy, partnerships, organisation shape, life-stage reality); the personal decision memo.
+3. [The Deliberate Development Plan Toward the Chosen Next Step](03-the-deliberate-development-plan-toward-the-chosen-next-step.md) — why "deliberate" is load-bearing; the three outputs (signature artefacts, credential moves, public artefacts) plus the sponsor-and-mentor map; path-specific signature-artefact sets for each of the four paths; the quarterly review that keeps the plan honest; the sponsor's role across the preparation window.
+4. [Positioning the Credentials Portfolio Externally](04-positioning-the-credentials-portfolio-externally.md) — the internal "vocabulary" frame vs. the external "signal" frame; the three external surfaces (CV, LinkedIn, public bio) and the length / rhythm each carries; path-specific credential subsets; three disciplines for what to leave off the headline; the credential stack and credential-absent failure modes.
+5. [The Public Artifact Set — Conference Talk, Writing, Open-Source Enablement Artefact](05-the-public-artifact-set-conference-talk-writing-open-source.md) — why three artefacts in three mediums (talk, writing, open-source); the standard each is held to with path-specific venue and publication suggestions; the sequencing across the 18-to-24-month window; adaptation when one medium is blocked; misalignment and operating-evidence-outrun failure modes.
+6. [The Decision Points That Separate This Role from Adjacent Tracks](06-the-decision-points-that-separate-this-role-from-adjacent-tracks.md) — the transition is a decision, not an event; the signals (and counter-signals) for each of the four paths; reading the signals against the Chapter 03 quarterly review; the boundary between a step-up and a stay-in-role.
+
+## Exercises
+
+The four exercises run against a single chosen lead — either the learner themselves or a chosen worked-example lead with a defensible two-year operating record. Exercises 01 and 03 produce artefacts the lead can take directly into their next external surface update; Exercises 02 and 04 produce the personal instruments ([Chapter 02](02-choosing-the-next-step-on-the-ladder.md)'s decision memo and [Chapter 05](05-the-public-artifact-set-conference-talk-writing-open-source.md)'s artefact plan) that drive the preparation.
+
+1. [Exec Communication Story Outline](exercises/exercise-01-exec-communication-story-outline.md) — produce the four-move story at the three artefact lengths (elevator, one-page, fifteen-minute talk) for a chosen lead and audience.
+2. [Next Step Ladder Decision Worked Example](exercises/exercise-02-next-step-ladder-decision-worked-example.md) — run [Chapter 02](02-choosing-the-next-step-on-the-ladder.md)'s four-factor framework end to end and produce the one-page decision memo.
+3. [Credentials Portfolio External Positioning](exercises/exercise-03-credentials-portfolio-external-positioning.md) — render the portfolio against the CV, LinkedIn, and public-bio surfaces for the path chosen in Exercise 02.
+4. [Public Artifact Set Plan](exercises/exercise-04-public-artifact-set-plan.md) — author the specific three-artefact plan (talk, writing, open-source) with venues, publication targets, repository scope, and sequencing dates.
+
+## Labs and quizzes
+
+Lab and quiz prompts land in `labs/` and `quizzes/` on subsequent content cycles.
+
+## Resources
+
+External references: [`resources.md`](resources.md).
+
+## How this module connects to the rest of the track
+
+- **Takes from [mod-101](../mod-101-role-and-the-org-wide-enablement-operating-model/README.md):** the scope contract (Chapter 01), the handoff map (Chapter 04), and the credentials primer (Chapter 06) are the source of the "who are the next-step roles" question this module answers.
+- **Takes from [mod-102](../mod-102-selecting-and-rolling-out-ai-tools/README.md), [mod-103](../mod-103-policy-co-authoring-with-governance/README.md), [mod-104](../mod-104-training-programs-and-ai-literacy-curriculum/README.md), [mod-105](../mod-105-champion-networks-and-change-management/README.md):** the evidence surfaces (selection records, policy stack, fluency assessments, champion field-signal pipeline) are the raw material for Move 2 of the exec-communication story.
+- **Takes from [mod-106](../mod-106-outcome-measurement-and-executive-reporting/README.md):** the exec-communication craft (Chapter 03), the misses-first discipline (Chapter 02), and the BLUF structure feed every surface this module authors — the story in Chapter 01, the memos in Chapter 02, the writing in Chapter 05.
+- **Takes from [mod-107](../mod-107-budget-roi-and-build-vs-buy-at-org-scope/README.md):** the cost model and the build-vs-buy matrix are the surfaces the CAIO-path (level 70) preparation plan deepens into P&L-adjacent evidence.
+- **Takes from [mod-108](../mod-108-industry-and-regulatory-flavours-of-enablement/README.md):** the industry-adjusted policy stacks are the surface the head-of-ai-governance-path (level 60) preparation plan deepens into regulator-facing evidence.
+- **Takes from [mod-109](../mod-109-ai-incident-response-and-enablement-side-rollback/README.md):** the incident post-mortems and the control-change recommendations are signature artefacts for the governance-side paths (A and B).
+- **Takes from [mod-110](../mod-110-commissioning-internal-ai-tools-and-custom-agents/README.md):** the commissioning briefs are the source material for the engineering-manager-path (level 50) preparation plan's brief-at-architectural-altitude signature artefact.
+- **Takes from [mod-111](../mod-111-ai-coe-operations-vendor-management-and-cross-functional-leadership/README.md):** the operating loop, the quarterly ritual, and the credentials portfolio (Chapter 07) are directly reused — the operating loop is the evidence base for the exec story, the ritual is the surface the portfolio is exercised on, and the portfolio is the credential set this module positions externally.
+- **Feeds the curriculum's stay-or-step decision.** This module does not feed another module in the track — it is the capstone. It feeds the lead's next career move, which is in another curriculum (`head-of-ai-governance-learning`, `senior-ai-governance-architect-learning`, `chief-ai-officer-learning`, or `ai-engineering-manager-learning`).

@@ -6,7 +6,7 @@
 
 Drives AI adoption across an organization: selecting and rolling out tools, writing usable policy with governance, training programs and champion networks, and measuring whether AI actually changed outcomes.
 
-> **Status**: scaffolded by `aicg org bootstrap-role`. The curriculum is not authored yet. Run `aicg org research` and `aicg org daily` to drive the autonomous fill-in loop.
+> **Status**: curriculum plan published 2026-11-05 — 12 planned modules (180 h) + 3 planned projects (160 h) = ~340 h, grounded in 26 in-window live postings. See [`CURRICULUM.md`](CURRICULUM.md), [`JOB_REQUIREMENTS.md`](JOB_REQUIREMENTS.md), and [`.aicg/curriculum-plan.json`](.aicg/curriculum-plan.json). Lesson and project drafts arrive over subsequent autonomous content cycles.
 
 ## Layout
 
