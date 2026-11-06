@@ -23,8 +23,6 @@ Across the 26 postings read in the live sample behind this track, seven name ind
 - **Legal engineering.** `p-021` The Walt Disney Company (Director, AI Enablement & Legal Engineering, legal function inside a media conglomerate).
 - **Education / learning.** `p-009` ed-tech client (Experis USA posting, AI Enablement Lead, ed-tech vendor); `p-013` Ridgeline (AI Enablement Lead, investment-management platform with education-sector-flavoured content); `p-017` McGraw Hill (Director, Engineering — AI Enablement, educational publisher with K-12 and higher-ed exposure).
 
-<!-- needs-research: refresh R19 and the per-industry subcount on the next content cycle if more postings land in the sample. The 7/26 count is a snapshot and the content below is written so the chapter survives small shifts in the subcount; if the balance shifts materially (for example if public-sector or defense postings land) the industry chapters would need to expand. -->
-
 Below the threshold is a signal, not an exemption. Two readings of R19 at 0.27 matter:
 
 - **Any enablement lead in one of those four industries meets the flavour on day one.** The 27% is the probability *across* the sample that the role is flavour-heavy. For a role *inside* one of these industries, the probability is 100%. The banking enablement lead will co-author the AUP against SR 11-7; the healthcare enablement lead will co-author the SOP against HIPAA; these are not the long tail of the job, they are the shape of the first week.
@@ -52,7 +50,7 @@ The exercises close the loop. Exercises 01 through 03 are drills against the ind
 ## What this module does not cover
 
 - **Deep regulatory law.** HIPAA, SR 11-7, FINRA, FERPA, COPPA, the EU AI Act, and the case law each has accumulated are each a professional discipline of their own. This module teaches the enablement lead enough vocabulary and structure to partner with the lawyers and compliance officers who hold those disciplines, not to replace them. See Chapter 08 for the posture that stops the drift.
-- **Every industry that has a flavour.** The sampled postings behind the track did not surface meaningful traffic from defense, public sector, energy, aerospace, insurance, or heavily-regulated manufacturing. Those flavours exist and would each take a chapter of their own; readers in those industries can read Chapters 03 through 06 for the *method* of flavour-mapping and apply it to their own regulators. <!-- needs-research: if the posting sample refreshes to surface defense or public-sector weight above the flavour threshold, add chapters covering FedRAMP, CMMC, DFARS, and public-sector procurement posture. -->
+- **Every industry that has a flavour.** The sampled postings behind the track did not surface meaningful traffic from defense, public sector, energy, aerospace, insurance, or heavily-regulated manufacturing. Those flavours exist and would each take a chapter of their own; readers in those industries can read Chapters 03 through 06 for the *method* of flavour-mapping and apply it to their own regulators.
 - **Full industry-specific training curricula.** The industry-adjusted mod-104 curriculum (exercise 05) is one industry, at the level the role would hand to an instructional-design partner. The complete curriculum build is still the mod-104 artifact; the industry version is the delta.
 
 ## Summary

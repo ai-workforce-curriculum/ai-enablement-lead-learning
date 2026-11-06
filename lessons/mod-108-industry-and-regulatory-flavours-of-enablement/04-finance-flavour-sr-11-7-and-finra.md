@@ -37,8 +37,6 @@
 
 - **NIST AI RMF 1.0 and the Generative AI Profile.** Non-industry, but increasingly referenced in bank-regulator examinations. See [mod-107 resources](../mod-107-budget-roi-and-build-vs-buy-at-org-scope/resources.md).
 
-<!-- needs-research: refresh SR 11-7 and third-party guidance status on the next content cycle. The 2023 interagency guidance is relatively new and supervisory interpretations are still developing. -->
-
 ## The data classes that attach
 
 - **Customer non-public personal information (NPI).** Defined under Gramm-Leach-Bliley Act and Regulation P; the baseline customer-data class that attaches to any consumer-finance organization.
