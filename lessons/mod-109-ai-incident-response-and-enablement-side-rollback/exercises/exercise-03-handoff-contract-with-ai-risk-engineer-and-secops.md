@@ -85,10 +85,10 @@ A short appendix (half a page) describing the weekly check-in cadence with each 
 
 - The hardest part of each contract is the **"what the enablement side does not deliver"** list. Spend time on this list; it is the discipline that stops boundary collapse during a live incident. The list should be specific, not a general disclaimer.
 - The clocks are negotiated, not declared. If the ai-risk-engineer's capacity means a 24-hour first-read is unrealistic, the contract should reflect the realistic clock with the governance-side acknowledgement. Fiction-clocks are worse than long clocks.
-- The SecOps contract is the one most likely to require a conversation you have not had. If the organisation has a SOC with an incident-response discipline, the contract leans on that discipline; if not, the enablement lead and the governance side may need to co-stand-up the SecOps-side surface first. Mark `<!-- needs-research: ... -->` where unknown.
+- The SecOps contract is the one most likely to require a conversation you have not had. If the organisation has a SOC with an incident-response discipline, the contract leans on that discipline; if not, the enablement lead and the governance side may need to co-stand-up the SecOps-side surface first. Flag gaps inline with a `needs-research` marker where unknown.
 - The cover sheet template should be completable in 15 minutes under pressure. If a template field requires research to fill at the moment of the incident, move it to an annex and reserve the cover sheet for the information the enablement lead already has.
 - The two-week check-in protocol is often cut as "overhead." Keep it — the biggest post-first-hour failure in Chapter 05 is cross-owner coordination breakdown, and the check-in is where the enablement lead surfaces cross-thread information.
-- Where organisation-specific facts are needed (named humans, the vendor DPA's security-incident clause number, the organisation's evidence-store path), mark `<!-- needs-research: ... -->` inline.
+- Where organisation-specific facts are needed (named humans, the vendor DPA's security-incident clause number, the organisation's evidence-store path), flag the gap inline with a `needs-research` marker.
 
 ## Deliverables
 
@@ -109,7 +109,7 @@ A short appendix (half a page) describing the weekly check-in cadence with each 
 - The cover sheet template is completable in 15 minutes under pressure; no field requires post-incident research to fill.
 - The clock-definition table shows inconsistencies explicitly and resolves or justifies them.
 - The supporting-mode check-in protocol names what the enablement lead does not demand.
-- `<!-- needs-research: ... -->` used wherever an organisation-specific fact is missing.
+- A `needs-research` marker is used inline wherever an organisation-specific fact is missing.
 
 ## Stretch goals
 

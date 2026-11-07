@@ -12,7 +12,7 @@ External references for the chapters and exercises. Primary documentation first;
 
 - **Regulation (EU) 2024/1689 — the EU AI Act.** The primary text, including Article 73 (reporting of serious incidents) and the serious-incident definitions. [EUR-Lex](https://eur-lex.europa.eu/eli/reg/2024/1689/oj).
 - **European Commission — AI Office.** The Commission office coordinating AI Act implementation, including serious-incident reporting guidance as it develops. [European Commission AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office).
-- **European AI Board** — the member-state coordination body under the AI Act; its guidance influences the Article 73 reporting infrastructure. <!-- needs-research: AI Board guidance under Article 73 is developing; refresh on each content cycle. -->
+- **European AI Board** — the member-state coordination body under the AI Act; its guidance under Article 73 continues to develop and should be re-read on each content cycle.
 
 ## Parallel incident-reporting obligations
 
@@ -59,4 +59,4 @@ These are reading the enablement lead points the ai-risk-engineer and the SOC at
 - **Chapter 07 council brief.** The EU AI Act (Article 73), the AI RMF MANAGE function, and the ISO/IEC 42001 nonconformity clauses frame the council's reading of the organisation's incident posture.
 - **Exercises 02 and 03.** The MITRE ATLAS and OWASP LLM Top 10 references are the technical ground the ai-risk-engineer-side contract hands off to; the enablement lead does not read at forensic depth but reads to know the vocabulary.
 
-<!-- needs-research: incident-response regulatory landscape evolves quickly. Verify URLs, active guidance versions, and the applicability of each reference to the organisation's specific deployment context on each content cycle. -->
+The incident-response regulatory landscape evolves quickly; the enablement lead re-verifies the URLs, the active guidance versions, and the applicability of each reference to the organisation's specific deployment context on each content cycle.

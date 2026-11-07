@@ -42,7 +42,7 @@ Each contract lists what the enablement side delivers, what the enablement side 
 - First provisional engineered read back to the enablement side: **within 24 hours** by default; shorter if the governance side's severity classification requires it.
 - Final technical mitigation recommendations: **within the investigation's defined close window**, typically five to fifteen business days depending on complexity.
 
-<!-- needs-research: the 24-hour and five-to-fifteen-day windows are reasonable defaults for a mid-sized organisation's AI-risk-engineering function; large organisations with mature risk engineering may run faster, smaller organisations may run slower. The runbook should localise these windows to the organisation's actual capacity. -->
+The 24-hour and five-to-fifteen-day windows above are illustrative defaults; the runbook localises them to the organisation's actual AI-risk-engineering capacity, with mature functions running faster and smaller ones slower.
 
 ## Contract 2 — Enablement lead ↔ head-of-ai-governance (L60)
 
@@ -105,7 +105,7 @@ Each contract lists what the enablement side delivers, what the enablement side 
 - Initial SOC read: **within 4 hours** on the containment question (is the tool safe to continue, under what constraints).
 - Full forensic finding: the SOC's own close window, typically days to weeks depending on scope.
 
-<!-- needs-research: the SOC clocks depend heavily on the organisation's security operations maturity, the vendor's security responsiveness under the DPA, and the forensic-tooling available. Localise against the organisation. -->
+The SOC clocks above are illustrative; the runbook localises them against the organisation's security-operations maturity, the vendor's security responsiveness under the DPA, and the forensic tooling available.
 
 ## The shape of the packet
 

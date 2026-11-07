@@ -37,7 +37,7 @@ The enablement lead reads AIID and AIM on a cadence, not on an "as needed" basis
 - **On-vendor-change.** When the organisation adds or removes a vendor from the approved envelope, scan both databases for incidents attributed to that vendor or that vendor's underlying model family.
 - **On-incident.** During an active incident, the ai-risk-engineer may ask the enablement lead to pull precedent from the databases. This is a supporting-mode task; the finding goes to the ai-risk-engineer, not to the organisation's narrative.
 
-<!-- needs-research: AIID and OECD.AI AIM are both evolving public surfaces; the exact feature set and URL structure may shift. Verify the cadence proposal against the live surfaces on each refresh cycle. -->
+Both AIID and the OECD.AI AIM are evolving public surfaces; the enablement lead re-reads the live surfaces on each refresh cycle and localises the cadence against any changes to their feature sets.
 
 ## Reading at the right altitude
 

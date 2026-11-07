@@ -32,7 +32,7 @@ The council is not re-litigating the incident in the brief. The council is readi
 
 For organisations that deploy or provide a high-risk AI system (as defined under the EU AI Act) and whose deployment touches the EU market, Article 73 of Regulation (EU) 2024/1689 ([the EU AI Act](https://eur-lex.europa.eu/eli/reg/2024/1689/oj)) imposes a specific serious-incident reporting obligation. This section writes the enablement lead's support posture; it does not write the submission, because the submission is not the enablement lead's artefact.
 
-<!-- needs-research: Verify the current text of Article 73 against the live Official Journal publication; confirm the serious-incident definition, the clock for reporting (the hour-and-day structure defined in the Act), and the supervising-authority identity in each relevant member state. The AI Act's implementation is in progress and the national-authority identities and the Commission's guidance under Article 73 are developing; refresh on each content cycle. -->
+The Article 73 text, the serious-incident definition, the tiered reporting clocks (with a default outer bound of fifteen days, shortened in critical-infrastructure and loss-of-life scenarios), and the member-state market-surveillance authority identities are governed by the Act itself and by the implementing guidance of the EU AI Office and member-state authorities, both of which continue to develop; the enablement lead re-reads the primary text and current guidance on each content cycle. See [Article 73 in EUR-Lex](https://eur-lex.europa.eu/eli/reg/2024/1689/oj).
 
 ### What Article 73 broadly requires
 

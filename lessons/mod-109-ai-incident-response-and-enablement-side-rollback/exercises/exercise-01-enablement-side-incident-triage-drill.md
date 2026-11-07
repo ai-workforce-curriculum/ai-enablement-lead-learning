@@ -75,7 +75,7 @@ Cards are tight — one page per card. Reserve detail for the primary carried si
 - The external-complaint signal is the one where posture-3 (spokesperson) failure is most likely. Write the paging message and the preservation entry as if the external sender might later subpoena your records.
 - The usage-anomaly signal is the one most likely to resolve as *not* an incident. Your triage log should hold the distinction between "I am investigating on the change-management surface" and "I am escalating to incident territory" explicitly for this signal.
 - The outcome-regression signal has the longest decision horizon. Your triage will probably fork — part of your output will be the escalation-worthy slice; part will be the parallel business-outcome investigation on the mod-106 scorecard surface. Do not collapse the two.
-- Where an organisational fact you need is unknown (specific role titles for your escalation ladder; the exact dashboard metric names; the exec sponsor's title), use `<!-- needs-research: ... -->` inline. Do not invent.
+- Where an organisational fact you need is unknown (specific role titles for your escalation ladder; the exact dashboard metric names; the exec sponsor's title), flag it inline with a `needs-research` marker. Do not invent.
 
 ## Deliverables
 
@@ -96,7 +96,7 @@ Cards are tight — one page per card. Reserve detail for the primary carried si
 - Each signal card has all five required sections and fits on one page.
 - The named escalation ladder owners are role names (`head-of-ai-governance`, `ai-risk-engineer`, SOC liaison, privacy officer, general counsel), not person names.
 - Posture-collapse risks named per signal card are specific, not generic.
-- `<!-- needs-research: ... -->` is used wherever an organisational fact is missing.
+- A `needs-research` marker is used inline wherever an organisational fact is missing.
 
 ## Stretch goals
 

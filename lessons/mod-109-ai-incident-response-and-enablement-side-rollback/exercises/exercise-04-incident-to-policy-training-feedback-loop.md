@@ -79,7 +79,7 @@ A one-paragraph note identifying whether the incident would plausibly trigger an
 - The three-month verification schedule is the artefact that makes the loop close in practice, not in principle. Treat it as calendar entries with owners.
 - The council-brief section is tight. Resist the temptation to expand beyond one page; the governance side's content takes the rest of the council's time per Chapter 07.
 - The Article 73 / parallel-obligation note is likely a "not triggered" note for most training-drill scenarios. Say so and name why; the reasoning is the valuable part, not the eventual trigger.
-- Where an organisational fact you need is not knowable (the L&D partner's authoring window; the exact exec-scorecard template), mark `<!-- needs-research: ... -->` inline.
+- Where an organisational fact you need is not knowable (the L&D partner's authoring window; the exact exec-scorecard template), flag the gap inline with a `needs-research` marker.
 
 ## Deliverables
 
@@ -103,7 +103,7 @@ A one-paragraph note identifying whether the incident would plausibly trigger an
 - The council-brief section is one page with all four parts.
 - The Article 73 / parallel-obligation note names the applicable regimes (even if to say "not triggered") and names the submission author.
 - All revisions are tagged to the incident ID in a way that an auditor can trace back.
-- `<!-- needs-research: ... -->` used wherever an organisational fact is missing.
+- A `needs-research` marker is used inline wherever an organisational fact is missing.
 
 ## Stretch goals
 

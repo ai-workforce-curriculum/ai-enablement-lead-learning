@@ -13,7 +13,7 @@ Operationalise the mod-102 Artifact 7 kill-switch and rollback plan for the roll
 - Chapters 02 and 04 read.
 - [mod-102 Chapter 03 Artifact 7](../../mod-102-selecting-and-rolling-out-ai-tools/03-the-rollout-artifact-set.md) read.
 - Exercise 01 complete; carry the same rollout and the gap memo from Exercise 01's stretch goal (if you wrote it) into this drill.
-- Access to (or plausible reconstruction of) the rollout's SSO identity provider, licence pool, DLP pipeline, and vendor admin console. Where you do not have access, mark `<!-- needs-research: ... -->` and reason about the plausible shape.
+- Access to (or plausible reconstruction of) the rollout's SSO identity provider, licence pool, DLP pipeline, and vendor admin console. Where you do not have access, flag the gap inline with a `needs-research` marker and reason about the plausible shape.
 
 ## Problem statement
 
@@ -82,10 +82,10 @@ A one-page memo to the ai-risk-engineer and the SOC describing the specific pres
 - The hardest Part A section is the revocation sequence. Spend the first thirty minutes just enumerating every system the tool touches (SSO, licence pool, API, vendor admin, dependent organisational systems) and drawing the dependency order. The sequence is almost always surprising the first time.
 - The user-visible state messages are often written in a hurry at launch and then not revisited. Write them deliberately; the operator reading the Slack message is the person whose trust the organisation is working hardest to keep in the first hour.
 - The partial-pull shapes are often skipped. At minimum, draft the scope-narrow shape — the one most likely to be useful when the signal attributes to a specific function.
-- Where a vendor-side action depends on vendor capability (does the vendor support a tenant banner? does the vendor support feature-toggles?), check the vendor's current documentation. Mark `<!-- needs-research: ... -->` if the answer requires a vendor conversation you have not had.
+- Where a vendor-side action depends on vendor capability (does the vendor support a tenant banner? does the vendor support feature-toggles?), check the vendor's current documentation. Flag the gap inline with a `needs-research` marker if the answer requires a vendor conversation you have not had.
 - The dry-run script's pass criteria should include *timing*. A revocation sequence that takes 90 seconds is different from one that takes 25 minutes; the operator's experience of the kill-switch depends on the time.
 - The preservation sequence memo is the artefact that most directly supports Article 73 and parallel reporting obligations (Chapter 07). Write it as if general counsel will read it.
-- For organisational facts you do not know (specific SSO group names, specific licence pool names, specific admin-console steps for your vendor), mark `<!-- needs-research: ... -->` inline. Do not invent.
+- For organisational facts you do not know (specific SSO group names, specific licence pool names, specific admin-console steps for your vendor), flag the gap inline with a `needs-research` marker. Do not invent.
 
 ## Deliverables
 
@@ -106,7 +106,7 @@ A one-page memo to the ai-risk-engineer and the SOC describing the specific pres
 - The standing-cadence obligations include all four Chapter 02 Property 6 triggers.
 - The dry-run script has pre-session prep, agenda with timings, observation protocol, pass criteria, and post-session artefact.
 - The evidence-preservation memo names the preservation standard the organisation holds to (not a vague description).
-- `<!-- needs-research: ... -->` used throughout where vendor- or organisation-specific facts are unknown.
+- A `needs-research` marker is used inline throughout wherever vendor- or organisation-specific facts are unknown.
 
 ## Stretch goals
 
