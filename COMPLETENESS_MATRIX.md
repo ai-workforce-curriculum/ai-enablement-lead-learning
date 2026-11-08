@@ -2,18 +2,31 @@
 
 AI Workforce Curriculum · Level 45 · [learning](https://github.com/ai-workforce-curriculum/ai-enablement-lead-learning) · [solutions](https://github.com/ai-workforce-curriculum/ai-enablement-lead-solutions)
 
-_Generated 2026-11-03 by `aicg org completeness`._
+_Generated 2026-11-08 by `aicg org completeness`._
 
-**Overall: 0%**
+**Overall: 50%**
 
 | | Progress | Count |
 |---|---|---|
-| Learning | `░░░░░░░░░░` 0% | 0/0 modules complete |
-| Solutions | `░░░░░░░░░░` 0% | 0/0 exercises solved |
+| Learning | `██████████` 100% | 12/12 modules complete |
+| Solutions | `░░░░░░░░░░` 0% | 0/62 exercises solved |
 
 ## Modules
 
-No modules yet. The pipeline seeds a curriculum plan for this role and writes the modules on its next fill run.
+| Module | Status | Words | Chapters | Exercises | Quiz | Solutions |
+|---|---|---|---|---|---|---|
+| `mod-101-role-and-the-org-wide-enablement-operating-model` | ✅ Complete | 15,433 | 6 | 5 | — | 0/5 |
+| `mod-102-selecting-and-rolling-out-ai-tools` | ✅ Complete | 20,090 | 6 | 6 | — | 0/6 |
+| `mod-103-policy-co-authoring-with-governance` | ✅ Complete | 18,528 | 7 | 5 | — | 0/5 |
+| `mod-104-training-programs-and-ai-literacy-curriculum` | ✅ Complete | 26,166 | 8 | 7 | — | 0/7 |
+| `mod-105-champion-networks-and-change-management` | ✅ Complete | 25,807 | 8 | 6 | — | 0/6 |
+| `mod-106-outcome-measurement-and-executive-reporting` | ✅ Complete | 26,687 | 6 | 6 | — | 0/6 |
+| `mod-107-budget-roi-and-build-vs-buy-at-org-scope` | ✅ Complete | 26,542 | 6 | 5 | — | 0/5 |
+| `mod-108-industry-and-regulatory-flavours-of-enablement` | ✅ Complete | 26,567 | 8 | 5 | — | 0/5 |
+| `mod-109-ai-incident-response-and-enablement-side-rollback` | ✅ Complete | 24,320 | 7 | 4 | — | 0/4 |
+| `mod-110-commissioning-internal-ai-tools-and-custom-agents` | ✅ Complete | 24,447 | 6 | 4 | — | 0/4 |
+| `mod-111-ai-coe-operations-vendor-management-and-cross-functional-leadership` | ✅ Complete | 25,959 | 7 | 5 | — | 0/5 |
+| `mod-112-career-positioning-and-the-next-step-on-the-ladder` | ✅ Complete | 27,206 | 6 | 4 | — | 0/4 |
 
 ## How this is calculated
 
