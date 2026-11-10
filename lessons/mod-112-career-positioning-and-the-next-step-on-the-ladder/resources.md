@@ -20,7 +20,7 @@ Citations are to primary sources where available; where the surface shifts quick
 ## Credentials and standards signalled externally (Chapter 04)
 
 - **IAPP AIGP (AI Governance Professional) — body of knowledge and exam.** [iapp.org/certify/aigp](https://iapp.org/certify/aigp/). Introduced 2024. The AI governance credential most read externally for paths A and B. IAPP's continuing-education calendar is the renewal surface.
-- **ISO/IEC 42001:2023 — Information technology — Artificial intelligence — Management system.** [iso.org/standard/81230.html](https://www.iso.org/standard/81230.html). The AI management system standard; the Lead Implementer and Lead Auditor credentials are issued by accredited training providers against this standard. <!-- needs-research: confirm ISO/IEC 42001 revision cycle and next revision date on each content cycle. -->
+- **ISO/IEC 42001:2023 — Information technology — Artificial intelligence — Management system.** [iso.org/standard/81230.html](https://www.iso.org/standard/81230.html). The AI management system standard; the Lead Implementer and Lead Auditor credentials are issued by accredited training providers against this standard. The 2023 first edition remains the current global edition; the EN ISO/IEC 42001:2026 CEN adoption carries no technical change to the standard's requirements. ISO reviews management-system standards on a rolling cycle, so the lead confirms the standard's status before leaning on edition specifics.
 - **NIST AI Risk Management Framework (AI RMF) 1.0 and Generative AI Profile.** [nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework). The US voluntary framework the AIGP body of knowledge and the enablement-side policy stack both reference.
 - **EU AI Act (Regulation (EU) 2024/1689).** [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401689) / [artificialintelligenceact.eu](https://artificialintelligenceact.eu/). The foundational regulation Article 4 draws from; required reading for AIGP vocabulary.
 - **Prosci — Change Management Certification and ADKAR model.** [prosci.com](https://www.prosci.com/). The flagship change-management credential; ADKAR is the diagnostic model the credential teaches.
@@ -28,7 +28,7 @@ Citations are to primary sources where available; where the surface shifts quick
 - **PMI — Project Management Professional (PMP).** [pmi.org/certifications/project-management-pmp](https://www.pmi.org/certifications/project-management-pmp). The program-management lingua franca at enterprise scale.
 - **IAPP — related AI / privacy credentials (AIGP, CIPP/E, CIPP/US, CIPM, CIPT).** [iapp.org/certify](https://iapp.org/certify/). Useful adjacency reading when the lead's partner surface includes privacy counsel.
 
-<!-- needs-research: confirm each credential body's URL, renewal cadence, and current cycle exam fees on each content cycle; credentialing surface shifts annually. -->
+Renewal cadences, continuing-education requirements, and current-cycle exam fees shift annually across all of the above bodies; the lead confirms the specific numbers on each credential body's site before committing to a cycle.
 
 ## Conference-talk venues by path (Chapter 05)
 
@@ -40,7 +40,7 @@ Citations are to primary sources where available; where the surface shifts quick
 
 ### Executive-side (path C)
 
-- **The AI Conference / Transform / World AI Summit** — <!-- needs-research: landscape of enterprise-AI conferences is still reshaping; confirm specific events on next content cycle. -->
+- **The AI Conference** ([aiconference.com](https://aiconference.com/)) and **World Summit AI** ([worldsummit.ai](https://worldsummit.ai/)) — representative enterprise-AI practitioner convenings. The landscape of these events still reshapes year to year; the lead confirms the current cycle's shape before committing to a submission.
 - **Stanford HAI corporate programme events and MIT CSAIL industry events** — [hai.stanford.edu](https://hai.stanford.edu/); [csail.mit.edu](https://www.csail.mit.edu/). Invited-panel surfaces used by executive-leaning practitioners.
 - **NACD (National Association of Corporate Directors) AI events** — [nacdonline.org](https://www.nacdonline.org/). Board-level convenings for the CAIO-adjacent audience.
 
@@ -59,7 +59,7 @@ Citations are to primary sources where available; where the surface shifts quick
 - **LeadDev** — [leaddev.com/articles](https://leaddev.com/articles). The engineering-manager publication.
 - **ACM Queue / IEEE Software** — [queue.acm.org](https://queue.acm.org/); [computer.org/software-magazine](https://www.computer.org/csdl/magazine/so). Engineering-side craft publications.
 
-<!-- needs-research: confirm the publications' editorial submission processes on each content cycle; several shift between invited-only and open submission. -->
+Several of the publications above move between invited-only and open submission across a cycle (HBR and ACM Queue, for example, accept proposals through posted submission paths; MIT Sloan Management Review and some edited-standards-body venues are commonly editor-solicited). The lead confirms the current submission process on each publication's site before pitching.
 
 ## Adjacent-role curricula (the four paths)
 
@@ -77,7 +77,7 @@ Citations are to primary sources where available; where the surface shifts quick
 - **NACD (board-readiness and director education)** — [nacdonline.org](https://www.nacdonline.org/).
 - **Institute of Directors (IoD, UK board-readiness)** — [iod.com](https://www.iod.com/).
 
-<!-- needs-research: executive-education AI-specific programme inventories shift annually; confirm current offerings on each content cycle. -->
+Each of the executive-education providers above runs a rotating catalogue of AI-specific programmes (MIT Sloan and Wharton typically carry several short-format AI programmes in a given cycle; HBS, INSEAD, NACD, and IoD rotate AI-adjacent offerings against their broader director and leadership curricula). Specific programme names and dates shift annually; the lead checks each provider's current catalogue before building a preparation plan around a specific programme.
 
 ## Sibling modules this capstone draws from
 

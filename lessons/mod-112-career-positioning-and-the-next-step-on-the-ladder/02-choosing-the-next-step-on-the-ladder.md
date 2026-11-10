@@ -93,11 +93,9 @@ The lead reads the organisation's current shape and names, honestly, which paths
 
 ### Factor 4 — The compensation and life-stage reality
 
-The four paths have different compensation trajectories, different travel loads, different board-exposure loads, different work-rhythm shapes. The CAIO path (level 70) is usually the highest-paid and has the highest board-exposure load. The senior architect path (level 50) is often the most intellectually satisfying but has the slowest exec-pay progression. The governance-program-lead path (level 60) and the engineering-manager path (level 50) sit in the middle on most dimensions.
+The four paths have different compensation trajectories, different travel loads, different board-exposure loads, different work-rhythm shapes. In general the CAIO path (level 70) sits at the top of the band and carries the highest board-exposure load; the senior architect path (level 50) is often the most intellectually satisfying but has a slower exec-pay progression; the governance-program-lead and engineering-manager paths sit in the middle on most dimensions. Specific band figures vary across geography, industry, and organisation size — the lead triangulates against the most recent state pay-transparency postings (California, Colorado, New York, Washington, Illinois) rather than a single published number.
 
 The life-stage reality — small children at home, a partner's career constraints, a geographic tie, a health posture — is a real input to the decision. A lead who is honest about the life-stage inputs picks the path that compounds rather than depletes. A lead who ignores the inputs picks the path that looks best in the quarterly-review language and discovers in year three that the role does not fit the life.
-
-<!-- needs-research: compensation trajectories for the four paths at level 50 / 60 / 70. The 2026-11 posting cycle did not capture compensation bands reliably; backfill in the next cycle from state pay-transparency postings (CA, CO, NY, WA, IL). -->
 
 ## The decision instrument
 
