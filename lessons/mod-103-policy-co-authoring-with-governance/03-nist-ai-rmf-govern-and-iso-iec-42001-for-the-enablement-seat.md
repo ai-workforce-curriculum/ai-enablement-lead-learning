@@ -42,7 +42,7 @@ The GOVERN function is organized into categories covering (at the level an enabl
 - Processes for information integrity, accountability, and transparency.
 - Diversity, equity, inclusion, and accessibility considerations in the AI lifecycle.
 
-<!-- needs-research: confirm exact GOVERN category numbering and sub-category IDs (GOVERN 1.1 through GOVERN 6.N) against the published AI RMF 1.0 text; include the sub-categories most relevant to acceptable-use policy, training, and third-party risk when citing. -->
+The RMF 1.0 organizes GOVERN into six numbered categories (GOVERN 1 through 6) spanning 19 sub-categories; the sub-category IDs most load-bearing for this role are GOVERN 1.1 (legal/regulatory requirements), GOVERN 2.1–2.3 (accountability structures and workforce AI-risk training), and GOVERN 6.1–6.2 (third-party / supply-chain risk). See the NIST AI RMF Playbook at [airc.nist.gov/airmf-resources/playbook/govern/](https://airc.nist.gov/airmf-resources/playbook/govern/).
 
 Note that the workforce-competence category is where this role's training-rosters artifact and the [mod-101 Chapter 05](../mod-101-role-and-the-org-wide-enablement-operating-model/05-eu-ai-act-article-4-and-the-literacy-floor.md) EU AI Act Article 4 literacy work directly connect. If an auditor asks the organization to evidence GOVERN workforce-competence outcomes, the artifacts the enablement side produces are much of the answer.
 
@@ -72,7 +72,7 @@ The standard runs through ten main clauses. The ones that intersect the enableme
 
 ISO/IEC 42001 has an Annex A of AI-specific controls that mirrors the structure of ISO/IEC 27001's Annex A. The architect designs the organization's **Statement of Applicability** against Annex A — which controls apply, which are excluded with justification, which are implemented and how. Your job is to *operate the pieces that touch training, competence, and awareness* — and to feed the evidence the architect needs to demonstrate those controls are implemented.
 
-<!-- needs-research: name the specific Annex A control areas (e.g., AI policies, internal organization, resources, impact assessments, lifecycle) and confirm the control-numbering convention before citing exact controls in co-authoring. -->
+Annex A of ISO/IEC 42001:2023 is organized into nine control areas, A.2 through A.10 — Policies related to AI (A.2), Internal organization (A.3), Resources for AI systems (A.4), Assessing impacts of AI systems (A.5), AI system life cycle (A.6), Data for AI systems (A.7), Information for interested parties of AI systems (A.8), Use of AI systems (A.9), and Third-party and customer relationships (A.10) — totalling 38 controls. When you quote an exact control ID in a co-authoring conversation, pin it to this numbering convention.
 
 ### What you bring to a 42001 audit conversation
 
