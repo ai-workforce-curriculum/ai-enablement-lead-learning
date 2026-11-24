@@ -1,5 +1,13 @@
-# Labs for mod-104-training-programs-and-ai-literacy-curriculum (Training Programs, AI Literacy Curriculum, and Prompt-Coaching for Non-Engineers)
+# Labs for mod-104 — Training Programs, AI Literacy Curriculum, and Prompt-Coaching for Non-Engineers
 
-Planned labs:
+Guided, step-by-step hands-on practice. Labs complement — do not duplicate — the module's [exercises](../exercises/): exercises produce the big-picture artifacts (fluency target map, foundational curriculum outline, role-based playbook, coaching clinic design, cadence plan, measurement stack, partnership contract); labs operate one layer below on the specific plumbing those artifacts depend on.
 
-- `lab-01` — lab-01
+## Available labs
+
+- [Lab 01 — Author the Module 4 Data-Handling Scenario Triad](lab-01-author-the-module-4-data-handling-scenario-triad.md) — 60–75 min · a worked walkthrough of one scenario, an independent build of two more, an item-design red-team pass, and a refresh-trigger + grader handoff. Grounded in Chapter 03 (Module 4, with threading to Modules 5 and 6) and Chapter 07 (item-design rules). Operates below [Exercise 02](../exercises/exercise-02-foundational-ai-literacy-curriculum-outline.md), which only asks for scenario *descriptions*.
+- [Lab 02 — Triage the Coaching Clinic Intake](lab-02-triage-the-coaching-clinic-intake.md) — 60–75 min · a dry-run of the 15-minute pre-session triage against six pre-written intake tickets: pattern-cluster using the Chapter 06 diagnostic repertoire, decide coach-vs-route-out, time-box the 60 live minutes, draft the opening script, write up library updates within the 24-hour window. Grounded in Chapter 06 (Format 2 clinic, diagnostic repertoire, scoping line, incident angle) and Chapter 04 (prompt-library entry shape). Operates below [Exercise 04](../exercises/exercise-04-prompt-coaching-session-design.md), which designs the clinic structure.
+- [Lab 03 — Populate and Defend the Fluency Scorecard](lab-03-populate-and-defend-the-fluency-scorecard.md) — 60–75 min · populate the scorecard template with plausible mid-Y2 numbers across L1–L4, draft the two-minute exec narrative, red-team against Chapter 07's five common measurement failures, close with the audit-walkthrough one-liner. Grounded in Chapter 07 (the four measurement layers, the scorecard artifact, common measurement failures, external benchmarks as context not target) and Chapter 02 (tier definitions). Operates below [Exercise 06](../exercises/exercise-06-fluency-growth-measurement-drill.md), which is explicit that the template, not numbers, is the deliverable.
+
+## Recommended order
+
+Lab 01 → Lab 02 → Lab 03. Each lab's output is a useful input for the next: the Module 4 scenario triad from Lab 01 feeds the Chapter 07 knowledge-check item bank Lab 03 draws on; the library updates from Lab 02 are the Chapter 04 playbook entries whose rubric-meets rates Lab 03 reports against L3. The three labs together exercise the full plumbing beneath the module's seven exercises.
