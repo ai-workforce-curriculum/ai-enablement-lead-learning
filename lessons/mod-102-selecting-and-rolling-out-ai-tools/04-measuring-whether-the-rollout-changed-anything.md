@@ -25,7 +25,7 @@ Framed by task class:
 - **Code review** — time to first comment on a PR; rate of defects caught before merge; rate of defects caught after merge (the metric that actually matters).
 - **Meeting notes** — time from end-of-meeting to notes shared; rate at which action items from notes are completed.
 
-These are shapes, not numbers. <!-- needs-research: internal baselines for each task class, measured on comparable work before rollout --> Do not borrow a vendor's published number for your scorecard. You do not know what workflow produced it.
+These are shapes, not numbers. Do not borrow a vendor's published number for your scorecard. You do not know what workflow produced it.
 
 Two rules that keep this layer honest:
 
@@ -86,7 +86,7 @@ There is a growing empirical literature on AI productivity gains. Read it for *h
 - Dell'Acqua et al., "Navigating the Jagged Technological Frontier" (HBS working paper).
 - Brynjolfsson, Li, and Raymond, "Generative AI at Work" (NBER).
 
-<!-- needs-research: current URLs, exact publication dates, and any updates / retractions across these four papers at time of module publication --> Cite them by title when you train your team on measurement method. Do not cite their numbers in your own program's scorecard — different tasks, different populations, different baselines.
+Cite them by title when you train your team on measurement method. Do not cite their numbers in your own program's scorecard — different tasks, different populations, different baselines.
 
 ## Summary
 

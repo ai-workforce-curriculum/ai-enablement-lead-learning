@@ -26,8 +26,6 @@ If a candidate rollout cannot survive the pre-mortem, it should not get the pilo
 
 **Preempting artifact.** The outcome metric is named in the pilot charter (Chapter 02) *before* the pilot starts, with a baseline value, a target delta, a measurement method, and a named BU owner who signs that they can produce the reading. The measurement layers from Chapter 04 — leading-indicator usage, lagging outcome, counterfactual where available — are wired in at provisioning, not retrofitted at month five.
 
-<!-- needs-research: sampled postings' language on "outcome vs adoption metrics" — pull direct phrasings for the resources file. -->
-
 ## The champion-of-one
 
 **What it looks like.** The rollout is going well. One person in the sponsoring BU is a force of nature — runs the office hours, answers every Slack question, builds the internal prompt library, demos at the town hall. Then they take a new role, go on leave, or burn out. Within a month, usage flatlines. Within a quarter, the tool is a line item nobody defends at renewal.

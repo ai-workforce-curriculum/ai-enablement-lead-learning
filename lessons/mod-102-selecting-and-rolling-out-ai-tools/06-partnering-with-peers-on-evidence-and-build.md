@@ -66,7 +66,7 @@ Red-team evidence lands **before** the rollout commit. Not alongside it. Not sho
 Two signatures sit on top of the two artifacts in this chapter:
 
 - **Commissioning brief** — co-signed by this role and the engineer's manager (typically an `ai-engineering-manager` or a product/engineering director, depending on the organization's shape). Your signature commits to the problem framing, the user cohort, the maintenance owner. Theirs commits to the build.
-- **Red-team ask** — co-signed by this role and `head-of-ai-governance` (level 60). Your signature commits to the scope, the threat model inputs, and the rollout dependency on findings. Theirs ratifies the ask against the governance program's priorities and gives the risk engineer air cover to deliver real evidence rather than vendor-friendly evidence. <!-- needs-research: confirm whether the head-of-ai-governance sign-off is universal or whether some orgs route this co-signature through `senior-ai-governance-architect` instead. -->
+- **Red-team ask** — co-signed by this role and `head-of-ai-governance` (level 60), or an equivalent senior governance owner (e.g. `senior-ai-governance-architect`) depending on the organization's shape. Your signature commits to the scope, the threat model inputs, and the rollout dependency on findings. Theirs ratifies the ask against the governance program's priorities and gives the risk engineer air cover to deliver real evidence rather than vendor-friendly evidence.
 
 Both signatures are prerequisites. An unsigned commissioning brief is a conversation, not a commitment. An unsigned red-team ask is a favor you are asking, which is a brittle way to run a program whose output a regulator may read.
 
