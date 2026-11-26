@@ -5,7 +5,7 @@ Primary sources first; secondary sources only where they add something a primary
 ## Regulation and standards
 
 - **EU AI Act — Regulation (EU) 2024/1689.** Full consolidated text on EUR-Lex: <https://eur-lex.europa.eu/eli/reg/2024/1689/oj>. Article 4 ("AI literacy") is the section to read repeatedly for this module. Published in the OJ 2024-07-12; Article 4 and prohibited-practices provisions apply from 2025-02-02.
-- **European Commission — AI Office.** The EU body coordinating implementation of the AI Act, including provider and deployer guidance: <https://digital-strategy.ec.europa.eu/en/policies/ai-office>. Watch for Article-4 specific guidance as member-state enforcement matures. <!-- needs-research: catalog the AI Office's published Article 4 guidance documents as of 2026-11. -->
+- **European Commission — AI Office.** The EU body coordinating implementation of the AI Act, including provider and deployer guidance: <https://digital-strategy.ec.europa.eu/en/policies/ai-office>. As of late 2026, the AI Office's two published Article 4 reference documents are the **AI Literacy Q&A** (issued May 2025, updated through late 2026): <https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers>; and the **Living Repository to foster learning and exchange on AI literacy** (first published February 2025, with periodic refreshes): <https://digital-strategy.ec.europa.eu/en/library/living-repository-foster-learning-and-exchange-ai-literacy>. Neither confers presumption of compliance; both are the closest things to official deployer-facing interpretation.
 - **NIST AI Risk Management Framework (AI RMF) 1.0** and the **Generative AI Profile (NIST AI 600-1).** Primary source: <https://www.nist.gov/itl/ai-risk-management-framework>. The Govern / Map / Measure / Manage functions structure the control vocabulary your governance partners use in the US.
 - **ISO/IEC 42001:2023 — Information technology — Artificial intelligence — Management system.** Standard page: <https://www.iso.org/standard/81230.html>. The international management-system standard for AI; organizations can certify. Read the clause structure (similar to ISO/IEC 27001) to understand what an auditor expects of a management system.
 - **OECD AI Principles.** Primary source: <https://oecd.ai/en/ai-principles>. Intergovernmental AI principles (adopted 2019, updated 2024). Used as a reference-point for "aligned with international norms" claims.
@@ -25,7 +25,7 @@ The AI CoE pattern family is not a published standard; it is a recurring shape. 
 - **Deloitte — State of Generative AI in the Enterprise (quarterly).** Enterprise operating-model practices for AI adoption: <https://www.deloitte.com/global/en/issues/trust/state-of-generative-ai-in-the-enterprise.html>.
 - **Gartner — AI Center of Excellence research.** Gartner subscribers can pull the AI CoE operating-model notes; non-subscribers can read Gartner's public blog posts on CoE structure as orientation.
 
-<!-- needs-research: refresh the above with the most recent cycle's reports (2026 editions) in a subsequent content cycle. -->
+The McKinsey and Deloitte links above resolve to each firm's hub page, which the firms update with their current-year editions; the 2026 McKinsey State of AI and the 2026 Deloitte State of AI in the Enterprise are the most recent as of this writing.
 
 ## Industry and incident reference
 

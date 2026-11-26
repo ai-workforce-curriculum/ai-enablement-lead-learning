@@ -15,9 +15,7 @@ A few things to notice carefully:
 3. **"To their best extent."** Article 4 is an obligation of effort proportionate to context, not a hard numerical bar. The size of your organization, the sensitivity of the system, and the vulnerability of the people on whom the system is used all shape "sufficient."
 4. **"Technical knowledge, experience, education and training and the context."** The literacy must be *appropriate* — leadership-level literacy and operator-level literacy are different things.
 
-Article 4 has been in application since **2 February 2025**. Enforcement is in the hands of the EU member state market-surveillance authorities and (for prohibited practices and a few other categories) the European AI Office. Penalties for Article 4 breaches themselves are not the headline — the headline is that an organization unable to demonstrate Article 4 compliance has a credibility problem on every *other* AI Act obligation it faces.
-
-<!-- needs-research: confirm member-state-level enforcement guidance published since 2025-02-02 and any EU AI Office literacy guidelines that have landed by 2026-11; update citations in resources.md. -->
+Article 4 has been in application since **2 February 2025**. Enforcement is in the hands of the EU member state market-surveillance authorities and (for prohibited practices and a few other categories) the European AI Office. Formal supervision and penalty powers for Article 4 commenced on **2 August 2026**; Article 4 itself was lightly amended by the Digital Omnibus on AI that entered into force on 27 July 2026, which reframed the duty as one of *effort* rather than guaranteeing a particular literacy level. The Commission's AI Office has published an [AI Literacy Q&A](https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers) (first issued May 2025, updated through late 2026) and a [Living Repository of AI literacy practices](https://digital-strategy.ec.europa.eu/en/library/living-repository-foster-learning-and-exchange-ai-literacy); national-level Article 4 guidance from member states has, as of late 2026, remained sparse. Penalties for Article 4 breaches themselves are not the headline — the headline is that an organization unable to demonstrate Article 4 compliance has a credibility problem on every *other* AI Act obligation it faces.
 
 ## Why this is the enablement lead's problem
 
@@ -76,7 +74,7 @@ Know the difference. On Article 4, you lead. On the rest, you support.
 
 If none of your organization, employees, contractors, customers, data subjects, or output recipients touches the EU, Article 4 does not directly apply. Read it anyway. Two reasons:
 
-- It is the first serious, enforceable AI-literacy obligation in a major jurisdiction. Other regulators are watching. Jurisdiction creep is likely (UK, Canada, several US states, Brazil, Japan have signaled interest in related obligations; details vary and move quickly). <!-- needs-research: refresh the non-EU jurisdictional landscape in the next content cycle. -->
+- It is the first serious, enforceable AI-literacy obligation in a major jurisdiction. Other regulators are watching, and workforce AI-literacy expectations are accumulating elsewhere (for example, the UK's non-statutory Skills England AI benchmark and AI Skills Hub, Japan's AI Basic Plan and MDASH higher-education scheme, Canada's national AI strategy literacy goals, and K-12 AI guidance now published by a majority of US states) — but none yet have the same enforceable deployer-duty structure as Article 4. Expect the specifics to move quickly; confirm the current state of the jurisdiction(s) you touch before relying on any of it.
 - The *structure* of a defensible literacy program (tiered, role-based, evidenced, current) is good design even where it is not legally required. The Article 4 shape doubles as the floor-and-skeleton of [mod-104](../mod-104-training-programs-and-ai-literacy-curriculum/README.md)'s curriculum.
 
 ## Summary

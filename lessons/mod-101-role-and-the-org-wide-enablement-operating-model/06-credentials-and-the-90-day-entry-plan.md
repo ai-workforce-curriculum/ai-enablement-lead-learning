@@ -39,9 +39,9 @@ Not credentials; they are documents you should be able to discuss without a glos
 - **NIST AI Risk Management Framework (AI RMF) 1.0** — US framework, voluntary, structures AI risk management around four functions (Govern, Map, Measure, Manage). Companion Generative AI Profile published 2024. The frame your US-regulated partners use.
 - **ISO/IEC 42001:2023** — AI Management System standard. Audit-bearing (organizations can certify). The frame your international partners and certification-minded organizations use.
 - **EU AI Act (Regulation (EU) 2024/1689)** — covered in [Chapter 05](05-eu-ai-act-article-4-and-the-literacy-floor.md). The regulation your EU-touching partners must comply with.
-- **OECD AI Principles** — intergovernmental principles adopted 2019, revised 2024. Reference point for "aligned with international norms" claims.
+- **OECD AI Principles** — intergovernmental principles adopted 2019, revised May 2024. Reference point for "aligned with international norms" claims.
 
-<!-- needs-research: confirm 2026 update status on NIST AI RMF 1.0 and the GenAI Profile; confirm current OECD AI Principles revision text date. -->
+As of late 2026, AI RMF 1.0 and the 2024 Generative AI Profile remain the current NIST releases; a revision of AI RMF 1.0 is under way as part of the US AI Action Plan but no superseding version has been published.
 
 ## General program-management and leadership credentials
 
