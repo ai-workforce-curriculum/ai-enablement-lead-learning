@@ -1,3 +1,7 @@
-# Budget, ROI, and Build-vs-Buy at Organization Scope quizzes
+# mod-107 — Budget, ROI, and Build-vs-Buy at Organization Scope — Quizzes
 
-Authored under the autonomous fill-in loop.
+Short multiple-choice quizzes to check applied understanding of each lecture chapter. Answer keys live at the bottom of each quiz with one-to-two-sentence explanations pointing back to the chapter.
+
+## Available quizzes
+
+- [Quiz 01 — The Six-Family Cost Model, Projected ROI, the Four-Column Build-vs-Buy Matrix, the Three-Way Partnership, Stack Consolidation, and the Vendor-Vetting Rubric](quiz-01-cost-model-roi-build-vs-buy-partnerships-consolidation-and-vendor-vetting.md) — 12 questions covering Chapters 01–06 (the six-family cost taxonomy and the single-most-common-gap pattern around Family 4; the AI-incremental cost rule for platform add-ons on pre-existing SaaS; the three projection-specific theatre patterns including the hockey-stick; the canonical three-sentence form for refusing a point estimate; the build-hubris pattern in Column 4 internal-build cases; the Column 2 wins-on-commodity-SaaS-workflow pattern; SOC 2 Type I vs Type II and the enablement lead's attestation-reading job; the three out-of-scope lines for the enablement lead in the three-way partnership; the Pattern 2 same-vendor-no-shared-contract remediation; the clear-the-decks-reconciliation failure and its surfacing-principle corollaries; the stale-score and signal-event triggers in vendor vetting; and the portfolio-level vendor-concentration view at both ends of the spend curve).
