@@ -97,8 +97,6 @@ Two external benchmarks come up repeatedly in exec conversations about AI traini
 
 The pattern to apply: "our program's shape is consistent with what [Bersin / Microsoft] identifies as high-performing" is a reasonable framing. "Our completion rate beats the Microsoft benchmark" is not a meaningful framing; the denominators are different.
 
-<!-- needs-research: refresh the Josh Bersin AI-in-L&D and Microsoft Work Trend Index citations against the most recent cycle (2026 editions, if published) when resources.md is next revised. -->
-
 ## Pre- and post-assessment design
 
 Several questions the exec sponsor will ask reduce to one capability: *can you show growth?* The answer is a pre- and post-assessment design that produces comparable scores before and after the program.

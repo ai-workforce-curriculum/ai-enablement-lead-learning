@@ -13,7 +13,7 @@ Chapter 01 named them. This chapter is the definition.
 | **Specialists** | Senior ICs whose function is being materially reshaped by AI: legal reviewers, senior analysts, L&D designers, enablement partners, champions, auditors | Carries pattern libraries for their function. Coaches peers. Feeds the champion network. | 5–12% |
 | **Builders** | People commissioning, configuring, administering, red-teaming, or building AI systems | Technical AI depth. Mostly served by the AI Engineering and AI Governance curricula, not yours. | 0.3–2% |
 
-The ranges are starting figures based on how most mid-size enterprises end up distributed after the first literacy cycle. Your organization's distribution depends on its industry, its automation posture, and how far the toolset has been pushed into regulated work. <!-- needs-research: refresh these ranges against the most recent McKinsey State of AI and Deloitte State of Generative AI in the Enterprise cycles, 2026 editions. -->
+The ranges are illustrative starting figures for how most mid-size enterprises end up distributed after the first literacy cycle — not survey-derived. Your organization's distribution depends on its industry, its automation posture, and how far the toolset has been pushed into regulated work.
 
 The design error to avoid: splitting the budget evenly across the tiers. Operators are the largest audience by an order of magnitude — most of the budget, most of the delivery capacity, most of the measurement effort belongs there. Leadership gets a small, high-signal program. Builders are mostly a *routing* line item, not a teaching line item.
 
